@@ -1,0 +1,11 @@
+const constants = {
+  ROOT_ELEMENT: "root",
+  LINK_TO_HOME: "/",
+  LINK_TO_DESCRIPTION_PAGE: "/view",
+  ADD_COMMENT :"ADD_COMMENT",
+  DELETE_COMMENT:"DELETE_COMMENT",
+  INCREMENT_LIKES:"INCREMENT_LIKES",
+  EDIT_REACTION:"EDIT_REACTION"
+}
+
+export default constants;
